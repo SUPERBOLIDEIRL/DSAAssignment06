@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\awajd\source\repos\DSAAssignment06Awajda\DSAAssignment06Awajda\main.c(13,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\awajd\source\repos\DSAAssignment06Awajda\DSAAssignment06Awajda\main.c(27,25): warning C4047: 'function': 'int **' differs in levels of indirection from 'int (*)[20000]'
+C:\Users\awajd\source\repos\DSAAssignment06Awajda\DSAAssignment06Awajda\main.c(27,13): warning C4024: 'bubbleSort': different types for formal and actual parameter 1
+  DSAAssignment06Awajda.vcxproj -> C:\Users\awajd\source\repos\DSAAssignment06Awajda\x64\Debug\DSAAssignment06Awajda.exe
